@@ -14,3 +14,8 @@
   * Custom CB on the block to glue window directly
   * Beam must be incident on the tapered side
 * Configure git to ignore autosave files with ~ in file name
+* Rounded slip plate mounting bracket's base and the mounting slot
+* O-ring groove redesigned to be referenced from inside
+* [ ] Shorten cavity length to ~30mm (currently ~60mm)
+  * The lens slip mount subasm could be redesigned
+  * Spot position on grating can also be optimised
