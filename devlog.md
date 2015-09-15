@@ -16,6 +16,7 @@
 * Configure git to ignore autosave files with ~ in file name
 * Rounded slip plate mounting bracket's base and the mounting slot
 * O-ring groove redesigned to be referenced from inside
+* Fix ref error in the block lid dimensions
 * [ ] Shorten cavity length to ~30mm (currently ~60mm)
   * The lens slip mount subasm could be redesigned
   * Spot position on grating can also be optimised
