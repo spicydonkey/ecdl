@@ -33,3 +33,4 @@
   * Fix dangerous mating list
 * Revise reference for KMSS grating subasm locating holes in block
 * Briefly tuned some design params to position grating to be centered on the laser spot
+* Slots added on block for mirror mount with dims referenced to the subasm geometry
