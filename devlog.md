@@ -31,3 +31,5 @@
   * reposition lens-tube holding hole to reduce cavity length
   * redesign slip-plate mounting bracket to reduce size
   * Fix dangerous mating list
+* Revise reference for KMSS grating subasm locating holes in block
+* Briefly tuned some design params to position grating to be centered on the laser spot
