@@ -34,3 +34,8 @@
 * Revise reference for KMSS grating subasm locating holes in block
 * Briefly tuned some design params to position grating to be centered on the laser spot
 * Slots added on block for mirror mount with dims referenced to the subasm geometry
+
+### Clean references
+Prepare for changes in major design parameters, such as the gain-chip mount height for which the slip-plate mounting bracket's dimensions should be referenced to.
+* Gain-chip mounting boss
+* Remodelled the slip-plate mounting bracket (B01_XY_bracket) *in-context* to the laser gain-chip location and block geometry
