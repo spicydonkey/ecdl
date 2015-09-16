@@ -20,3 +20,8 @@
 * [ ] Shorten cavity length to ~30mm (currently ~60mm)
   * The lens slip mount subasm could be redesigned
   * Spot position on grating can also be optimised
+
+## 16.09.15
+* Update *.gitignore*: 
+  * add .swp files
+  * remove .gitignore 
