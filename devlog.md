@@ -25,3 +25,9 @@
 * Update *.gitignore*: 
   * add .swp files
   * remove .gitignore 
+* Fixed bad referencing in main block's slip-mount slot: in-context at the assembly
+* Slip-plate 
+  * flip mounting cofig for better accessibility
+  * reposition lens-tube holding hole to reduce cavity length
+  * redesign slip-plate mounting bracket to reduce size
+  * Fix dangerous mating list
