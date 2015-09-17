@@ -39,3 +39,39 @@
 Prepare for changes in major design parameters, such as the gain-chip mount height for which the slip-plate mounting bracket's dimensions should be referenced to.
 * Gain-chip mounting boss
 * Remodelled the slip-plate mounting bracket (B01_XY_bracket) *in-context* to the laser gain-chip location and block geometry
+
+## 17.09.15
+### ANU ECDL
+#### Description
+ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser developed and designed by the Atom Laser group at ANU. It is designed for low cost and manufacturability so that the highly desirable optics and control properties can be practically employed by atomic physics laboritories, etc. The developers attribute its impressive linewidth to acoustic isolation by fibre coupling the gain chip and eliminating acousitc resonances by their custom cavity alignment system, replacing the conventional kinematic mount). ANU ECDL is the design our lab (Truscott Lab at ANU) is basing the new ECDL master laser for the He* experiments. Below is a description of ANU ECDL. 
+
+* System components
+  * Gain medium & fibre outcoupling
+    * gain-chip: SAF1550P2, Thorlabs - fibre coupled ECDL
+    * isolator
+      * built-in (insufficient)
+      * dual stage 50dB fibre coupled polarization maintaining, **fast-axis** blocked --> robustly single mode & polarized
+    * fibre: single transverse mode polarization maintaining    
+  * Grating
+    * diffraction grating: 1100 lines/mm 90% at 1.56um (05HG1100-900-1, Newport/Richardson)
+    * grating mount: POLARIS-K1-H, Thorlabs 
+  * Collimator
+    * lens: 2.97mm, AR coated moulded aspheric lens (355660-C, Thorlabs)
+    * flexure mount
+
+* Design specification
+  * Cavity length (optical path length): 60mm 
+
+* Design characteritics
+  * Vibration damping
+    * laser block on 5cm of acoustic dampening foam
+  * Mechanical stiffening
+    * **Thick walls**
+    * compactness 
+  * Mechanical/vibrational isolation
+    * fibre coupled output with the output end **rigidly fixed** the **application system's reference plane** for decoupling mech/vibs from environment
+
+* ECDL specification
+  * FWHM linewidth: ~10kHz
+  * Tuning ranges (10dB): 1420-1620nm (200nm)
+  * Stability over time: 
