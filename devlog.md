@@ -77,10 +77,10 @@ ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser deve
   * Stability over time: 
 
 ## 18.09.15
-* [ ] Compact B01 design
-* Check up with Ross on design
-  * material
+* [x] Compact B01 design
+* [x] Check up with Ross on design
+  * material - Aluminium (not happy to try invar, stainless steel)
   * job duration
-  * tolerances/precision
-  * possible mods
-* Re-do wall and grating mount referencing
+  * tolerances/precision - give parts with tight tolerances to Ross during machining
+  * possible mods - should be easy
+* [x] Re-do wall and grating mount referencing
