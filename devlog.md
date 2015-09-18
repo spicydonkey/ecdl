@@ -75,3 +75,12 @@ ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser deve
   * FWHM linewidth: ~10kHz
   * Tuning ranges (10dB): 1420-1620nm (200nm)
   * Stability over time: 
+
+## 18.09.15
+* [ ] Compact B01 design
+* Check up with Ross on design
+  * material
+  * job duration
+  * tolerances/precision
+  * possible mods
+* Re-do wall and grating mount referencing
