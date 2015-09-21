@@ -97,7 +97,16 @@ ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser deve
     * gain-chip Z-stage should be unncessary; should keep it simple
       * gain chip to mount directly onto block, precisely located
     * decoupling fiber from gainchip by rigidly fixing at the exit port at wall
-    
+
+* Part selection
+  * Optical isolator (fiber): refer to TODO list below
+    * PISO-64-2-C-7-2-FB
+  * Diffraction grating: blaze angle as close to 45 deg as possible
+    * GR13-1210 - Thorlabs
+  * Wedged window: minimum reflectivity at ~1083nm
+    * WW11050-C14 - Thorlabs (C14 coating is slightly better than C13 coating ~1100nm)
+  * Piezoelectric disc: fine tuning of cavity length and modulation; high resonance; ~3um travel
+
 ### Lab meeting
 * Select appropriate optical isolator (FC): can afford two?
   * Dual stage?
@@ -111,3 +120,4 @@ ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser deve
   * **Dual Stage** (~50dB) - Following DQS's footsteps in maximising optical isolation for a "number of situations"
   * **Fast-axis blocked** - robustly single mode and polarized 
 * [x] Set up BOM 
+* [ ] Measure gainchip fiber connection dimensions
