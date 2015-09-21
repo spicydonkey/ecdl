@@ -120,4 +120,4 @@ ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser deve
   * **Dual Stage** (~50dB) - Following DQS's footsteps in maximising optical isolation for a "number of situations"
   * **Fast-axis blocked** - robustly single mode and polarized 
 * [x] Set up BOM 
-* [ ] Measure gainchip fiber connection dimensions
+* [x] Measure gainchip fiber connection dimensions
