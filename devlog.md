@@ -110,4 +110,4 @@ ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser deve
   * **PISO-64-2-C-7-2-FB**: Polarization maintaining isolator, 1064nm, dual stage, 3mm cable jacket, 0.75m fiber, FC/APC, slow axis working and fast axis blocked
   * **Dual Stage** (~50dB) - Following DQS's footsteps in maximising optical isolation for a "number of situations"
   * **Fast-axis blocked** - robustly single mode and polarized 
- 
+* [ ] Set up BOM 
