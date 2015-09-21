@@ -84,3 +84,30 @@ ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser deve
   * tolerances/precision - give parts with tight tolerances to Ross during machining
   * possible mods - should be easy
 * [x] Re-do wall and grating mount referencing
+
+## 21.09.15
+* [ ] B01 design evaluation
+  * Commendable features
+    * grating subasm is compact and easy to tune; brass pin location should allow rigid and stable mechanical stability to cavity
+    * compact block and relatively short cavity
+    * hermetic sealing
+    * thick walls
+  * Improvements
+    * slip-mount subasm: hard to align XYZ; thermal and vibrational stability unsure;
+    * gain-chip Z-stage should be unncessary; should keep it simple
+      * gain chip to mount directly onto block, precisely located
+    * decoupling fiber from gainchip by rigidly fixing at the exit port at wall
+    
+### Lab meeting
+* Select appropriate optical isolator (FC): can afford two?
+  * Dual stage?
+  * Blocked axis?
+* Bill of materials
+  * all components required for assembly
+
+### TODO
+* [ ] Select optical isolator and forward Andrew
+  * **PISO-64-2-C-7-2-FB**: Polarization maintaining isolator, 1064nm, dual stage, 3mm cable jacket, 0.75m fiber, FC/APC, slow axis working and fast axis blocked
+  * **Dual Stage** (~50dB) - Following DQS's footsteps in maximising optical isolation for a "number of situations"
+  * **Fast-axis blocked** - robustly single mode and polarized 
+ 
