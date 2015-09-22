@@ -139,7 +139,10 @@ Considering the above factors, the conceptual design (B01) will be evaluated and
 #### Lens
 The *lens* must be studied first, for the design of the mounting interface must be compatible and take advantages of it.
 * Size
-* NA
+* NA: >0.35 (2xNA_diode)
+* Focal length: 5-10mm (collimated beam dia. 1.5-3mm)
 * Mounting types
-* Distance from gain chip
+  * unmounted/mounted in stainless steel lens cell with metric thread
+  * aspheric lens adapters
+* Distance from gain chip 
   * Working distance
