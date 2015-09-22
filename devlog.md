@@ -121,3 +121,25 @@ ANU ECDL is a narrow linewidth, broadly tunable external cavity diode laser deve
   * **Fast-axis blocked** - robustly single mode and polarized 
 * [x] Set up BOM 
 * [x] Measure gainchip fiber connection dimensions
+
+## 22.09.15
+* Gave Ross maximum block dimensions (140x100x60mm) for preparation (21.09.15)
+
+### TODO
+* [ ] Improve mechanical design for assembly and stability before electrical connection, etc.
+
+### Beam collimation - precise and stable lens positioning
+The relative positioning of the high NA lens in all orientation (XYZ) is critical to the operation of an ECDL since the incident beam at the diffraction grating *should* be collimated. Displacement of the lens (rel to the gainchip) will have devastating effect on the ECDL since it shifts the external cavity length and also the spectral feedback from the grating. Listed below are the critical design requirements for the lens subsystem:
+* **Stability**
+* **Rigidity**
+* **Precision**
+
+Considering the above factors, the conceptual design (B01) will be evaluated and improved.
+
+#### Lens
+The *lens* must be studied first, for the design of the mounting interface must be compatible and take advantages of it.
+* Size
+* NA
+* Mounting types
+* Distance from gain chip
+  * Working distance
