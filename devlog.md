@@ -136,6 +136,9 @@ The relative positioning of the high NA lens in all orientation (XYZ) is critica
 
 Considering the above factors, the conceptual design (B01) will be evaluated and improved.
 
+#### Collimation block
+A separate block to rapid-protype the collimating lens location and mounting, most likely eliminating XY adjustments of the lens.
+
 #### Lens
 The *lens* must be studied first, for the design of the mounting interface must be compatible and take advantages of it.
 * Size
@@ -143,6 +146,11 @@ The *lens* must be studied first, for the design of the mounting interface must 
 * Focal length: 5-10mm (collimated beam dia. 1.5-3mm)
 * Mounting types
   * unmounted/mounted in stainless steel lens cell with metric thread
-  * aspheric lens adapters
+  * ~~aspheric lens adapters~~ unsuitable
 * Distance from gain chip 
   * Working distance
+
+Options:
+* C240TME-1064
+* C230TME-1064
+
