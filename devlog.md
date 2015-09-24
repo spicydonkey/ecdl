@@ -151,8 +151,8 @@ The *lens* must be studied first, for the design of the mounting interface must 
   * Working distance
 
 Options:
-* C240TME-1064
-* C230TME-1064
+* C240TME-1064: f=8.07mm,NA=0.5,1064nm,WD=4.93mm(mount)
+* C230TME-1064: f=4.55mm,NA=0.55,1064nm,WD=2.67mm(mount)
 
 ## 24.09.15
 * [ ] **B02** Integrated block design
