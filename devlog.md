@@ -154,3 +154,11 @@ Options:
 * C240TME-1064
 * C230TME-1064
 
+## 24.09.15
+* [ ] **B02** Integrated block design
+  * gainchip mounts directly on block + XYZ adjustable## 24.09.15
+  * **B02** Integrated block design
+    * gainchip mounts directly on block + lens subasm mounts onto block lens subasm mounts onto block
+* [ ] **D01** Separate block design
+  * a separate machined block for mounting gainchip and lens
+  * *slip* or *fixed lens hole* design
