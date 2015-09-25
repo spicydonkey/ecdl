@@ -151,8 +151,8 @@ The *lens* must be studied first, for the design of the mounting interface must 
   * Working distance
 
 Options:
-* ~~C240TME-1064: f=8.07mm,NA=0.5,1064nm,WD=4.93mm(mount)~~
-* **C230TME-1064: f=4.55mm,NA=0.55,1064nm,WD=2.67mm(mount)**
+* **C240TME-1064: f=8.07mm,NA=0.5,1064nm,WD=4.93mm(mount)**
+* ~~C230TME-1064: f=4.55mm,NA=0.55,1064nm,WD=2.67mm(mount)~~
 
 ## 24.09.15
 * [ ] **B02** Integrated block design
@@ -163,4 +163,24 @@ Options:
   * a separate machined block for mounting gainchip and lens
   * *slip* or *fixed lens hole* design
 
-Selected *C230TME-1064* to be the collimating lens for its relatively large but suitable f~=8mm, WD~4mm, and beam diameter~>2mm.
+Selected *C240TME-1064* to be the collimating lens for its relatively large but suitable f~=8mm, WD~4mm, and **beam diameter~>2mm**.
+
+## 25.09.15
+### Wedged window-beam orientation 
+Due to the orientation of the gain module and grating selection, the free-space output beam is not perpendicular to the side walls.
+The C14_AR coating used in the window provides very good (<0.5%) anti-reflection properties for AOI<30deg, while our beam's AOI should be approx. 10 deg.
+
+### Beam intensity
+Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is significantly lower than the window's damage threshold at CW regime.
+
+* Reduced block size
+* slot beam output
+
+### TODO
+* Port for fiber output connector: requires hermetic sealing and relatively rigid fixture
+* Electrical cables and DVI port
+* thermistor hole
+* Mounting the block
+  * Peltier
+  * outer block?
+  * bolting
