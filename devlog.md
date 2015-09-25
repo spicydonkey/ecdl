@@ -156,9 +156,7 @@ Options:
 
 ## 24.09.15
 * [ ] **B02** Integrated block design
-  * gainchip mounts directly on block + XYZ adjustable## 24.09.15
-  * **B02** Integrated block design
-    * gainchip mounts directly on block + lens subasm mounts onto block lens subasm mounts onto block
+  * gainchip mounts directly on block + XYZ adjustable lens
 * [ ] **D01** Separate block design
   * a separate machined block for mounting gainchip and lens
   * *slip* or *fixed lens hole* design
@@ -178,9 +176,12 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 
 ### TODO
 * Port for fiber output connector: requires hermetic sealing and relatively rigid fixture
+  * fiber chuck
 * Electrical cables and DVI port
+  * shield wires for isolating cross-coupling (esp. from TEC and laser diode current)
 * thermistor hole
 * Mounting the block
   * Peltier
-  * outer block?
-  * bolting
+  * connection to outer block: metal bolts through plastic sleeves OR plastic bolts
+* Main block modularity: for cannister diode lasers, different gain module, lens, etc.  
+* **re-do** plug
