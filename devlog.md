@@ -176,12 +176,18 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 
 ### TODO
 * Port for fiber output connector: requires hermetic sealing and relatively rigid fixture
-  * fiber chuck
+  * ~~fiber chuck~~ the fixture and sealing around the black plastic tubing
 * Electrical cables and DVI port
   * shield wires for isolating cross-coupling (esp. from TEC and laser diode current)
+  * research commercial solutions with electrical wires
 * thermistor hole
 * Mounting the block
-  * Peltier
+  * Peltier - rough dimensions
   * connection to outer block: metal bolts through plastic sleeves OR plastic bolts
 * Main block modularity: for cannister diode lasers, different gain module, lens, etc.  
 * **re-do** plug
+* base plate and external housing design
+  * elec insulated fixture - plastic sleeves
+* gainchip from Piezomechanik could be more suitable (ring design with wider profile but thinner)
+* GM beam polarization direction and grating
+* Research mirror mounts from Newport and compare to current mini Thorlabs 
