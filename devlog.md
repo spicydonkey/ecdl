@@ -175,21 +175,27 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 * slot beam output
 
 ### TODO
-* [ ] Port for fiber output connector: requires hermetic sealing and relatively rigid fixture
+* [x] Port for fiber output connector: requires hermetic sealing and relatively rigid fixture
   * ~~fiber chuck~~ the fixture and sealing around the black plastic tubing
+  * Cord grips
+  * **Slotted grip** - putty can be used to hermetic seal
 * [ ] Electrical cables and DVI port
   * shield wires for isolating cross-coupling (esp. from TEC and laser diode current)
   * research commercial solutions with electrical wires
-* [ ] thermistor hole
+* [x] thermistor hole
 * [x] Mounting the block
   * Peltier - rough dimensions
     * MOGlabs: ~40x40x5mm (block 70x70x40mm)
     * our block: ~100x100x60 
-  * connection to outer block: metal bolts through plastic sleeves OR plastic bolts
+  * connection to outer block: metal bolts through plastic sleeves OR **plastic bolts**
 * [ ] Main block modularity: for cannister diode lasers, different gain module, lens, etc.  
-* [x] **re-do** plug
+* [x] **re-do** plug for collimating hole
+  * a bolt
 * [x] base plate and external housing design
   * elec insulated fixture - plastic sleeves | plastic bolts
 * [x] PZT from Piezomechanik could be more suitable (ring design with wider profile but thinner)
 * [ ] GM beam polarization direction and grating
+  * emailed Innolume (Alexey Shkolnik)
 * [ ] Research mirror mounts from Newport and compare to current mini Thorlabs 
+* [ ] freespace beam dump
+  * window in casing 
