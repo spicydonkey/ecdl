@@ -188,14 +188,31 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
     * MOGlabs: ~40x40x5mm (block 70x70x40mm)
     * our block: ~100x100x60 
   * connection to outer block: metal bolts through plastic sleeves OR **plastic bolts**
-* [ ] Main block modularity: for cannister diode lasers, different gain module, lens, etc.  
+* [x] Main block modularity: for cannister diode lasers, different gain module, lens, etc.  
 * [x] **re-do** plug for collimating hole
   * a bolt
 * [x] base plate and external housing design
   * elec insulated fixture - plastic sleeves | plastic bolts
 * [x] PZT from Piezomechanik could be more suitable (ring design with wider profile but thinner)
 * [ ] GM beam polarization direction and grating
-  * emailed Innolume (Alexey Shkolnik)
+  * emailed Innolume (Alexey Shkolnik): polarization parallel to the chip
 * [ ] Research mirror mounts from Newport and compare to current mini Thorlabs 
 * [ ] freespace beam dump
   * window in casing 
+
+## 29.09.15
+### Meeting: Review of design B02 and B03
+* Majority favoured **B03**
+* B03's reduced thermal contact and alignment should be solved
+* Hermetic sealing the ecdl block with blu-tak/putty/epoxy
+* Consider panel mount FC fiber connector at the outer casing by wrapping fiber around the block in casing
+
+* Added a locating slot (Z free) in GM mount so that the M4 bolts are only for rigid fixture not locating
+* Changed fixture type of GM mount to CB instead of CSK
+
+### B03 design refinement
+#### Lens tube
+* [ ] Dimension
+  * [ ] check against Thorlabs dims and fit with lens mount
+* [ ] Drawing
+* [ ] Send to manufacturing
