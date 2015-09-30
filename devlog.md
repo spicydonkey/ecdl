@@ -200,7 +200,7 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 * [ ] freespace beam dump
   * window in casing 
 
-## 29.09.15
+## 29.09.15 - 30.09.15
 ### Meeting: Review of design B02 and B03
 * Majority favoured **B03**
 * B03's reduced thermal contact and alignment should be solved
@@ -212,7 +212,20 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 
 ### B03 design refinement
 #### Lens tube
-* [ ] Dimension
-  * [ ] check against Thorlabs dims and fit with lens mount
+* [x] Dimension
+  * [x] check against Thorlabs dims and fit with lens mount
 * [ ] Drawing
+  * [x] create and dimension drawing
+  * [ ] check
 * [ ] Send to manufacturing
+* Developments
+  * o-ring compression fit for lens (mounted)
+
+#### Gainchip mount
+* [ ] Dimension
+  * [ ] check: GM, lens tube, block
+* [ ] Drawing
+  * [ ] create and dimension
+  * [ ] check
+* [ ] Manufacturing
+* Devs
