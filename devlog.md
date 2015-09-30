@@ -229,3 +229,19 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
   * [ ] check
 * [ ] Manufacturing
 * Devs
+
+#### ECDL block
+* [ ] Dimension
+  * [ ] check
+* [ ] Drawing
+  * [ ] create and dim
+  * [ ] check
+* Manufacturing
+* Devs
+
+### TODO
+* [ ] Peltier
+  * [ ] list
+  * [ ] select
+  * [ ] update ECDL block recess for TEC
+  
