@@ -216,37 +216,39 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
   * [x] check against Thorlabs dims and fit with lens mount
 * [ ] Drawing
   * [x] create and dimension drawing
-  * [ ] check
-* [ ] Send to manufacturing
+  * [x] check
+* [x] Send to manufacturing
 * Developments
   * o-ring compression fit for lens (mounted)
 
 #### Gainchip mount
-* [ ] Dimension
-  * [ ] check: GM, lens tube, block
-* [ ] Drawing
-  * [ ] create and dimension
-  * [ ] check
-* [ ] Manufacturing
+* [x] Dimension
+  * [x] check: GM, lens tube, block
+* [x] Drawing
+  * [x] create and dimension
+  * [x] check
+* [x] Manufacturing
 * Devs
 
 #### ECDL block
-* [ ] Dimension
-  * [ ] check
-* [ ] Drawing
-  * [ ] create and dim
-  * [ ] check
+* [x] Dimension
+  * [x] check
+* [x] Drawing
+  * [x] create and dim
+  * [x] check
 * Manufacturing
 * Devs
+  * Fiber output
 
 #### block lid
-* [ ] Dims
-  * [ ] check
-* [ ] Drawing
-  * [ ] create and dim
-  * [ ] check
+* [x] Dims
+  * [x] check
+* [x] Drawing
+  * [x] create and dim
+  * [x] check
 * manuf
 * devs
+  * engraving ANU logo etc.
 
 ### TODO
 * [ ] Peltier
@@ -255,3 +257,6 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
   * [ ] update ECDL block recess for TEC
   
 
+## 02.10.15
+* Decreased O-ring groove depth to 1.2mm (from 1.3mm) - using 1.6mm o-ring
+* Block and GM mount sent to Craig
