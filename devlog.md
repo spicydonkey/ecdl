@@ -264,13 +264,13 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 ## 06-08.10.15
 ### Purchasing
 #### Optics
-* [ ] Fiber optic beam splitters
+* [x] Fiber optic beam splitters
   * ~~POBS-64-C-3-7-2-25ER~~
   * couplers!
   * PFC-64-1-split_ratio-L-fiber_type-7-2-FB (e.g. 50,P for the 50/50 to tapered amplifiers)
   * 50/50, PM: PFC-64-1-50-L-P-7-2-FB
   * 10/90, PM: PFC-64-1-10-L-P-7-2-FB
-* [ ] FC connector adaptors at outer casing
+* [x] FC connector adaptors at outer casing
   * FC connectors are narrow key (type R)
   * afwoptics: ADA-PM-22-R-S
 * [ ] Lens for SAS
@@ -281,11 +281,18 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 * [ ] thermistor
 * [ ] diode protection circuitry
 * [ ] Peltier
+  * Uniform heat flux
+  * ~12W operating cooling from GM 
 * [ ] DVI panel mount connector
   * RS electronics
     * 822-3217 - right angle, 29 way
     * 822-3210 - straight, 24 way
+* [ ] Connector for block
+  * >11 pin 
+  * Piezo ~100V
+  * Sensitive currents
 
 #### Misc
-* [ ] sealant
+* [x] sealant
+  * Dow Corning 732 RTV
 
