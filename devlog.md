@@ -279,10 +279,15 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 
 #### Electronics
 * [ ] thermistor
+  * Epcos 10 kOhm 60mW Measurement NTC Thermistor, 15s, 2.41 Dia x 6.5mm
+    * RS 706-2759
 * [ ] diode protection circuitry
 * [ ] Peltier
   * Uniform heat flux
   * ~12W operating cooling from GM 
+  * dimension: <70x70 
+  * APH-127-10-20-S: 20W, 2.3A, 15.4V, 30x30x4
+    * Element14: 2466917
 * [ ] DVI panel mount connector
   * RS electronics
     * 822-3217 - right angle, 29 way
