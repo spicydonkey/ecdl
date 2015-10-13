@@ -286,9 +286,9 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
   * Uniform heat flux
   * ~12W operating cooling from GM 
   * dimension: <70x70 
-  * APH-127-10-20-S: 20W, 2.3A, 15.4V, 30x30x4
-    * Element14: 2466917
-  * Would like 4 for a wider heat flux area
+  * APH-127-10-25-S: 17W,1.9A, 15.4V, 30x30x4.5
+    * Element14: 2466916
+  * ~~Would like 4 for a wider heat flux area~~ 2 is enough. localised heat source and appropriate thermistor location
 * [x] DVI panel mount connector
   * RS electronics
     * 822-3217 - right angle, 29 way
@@ -301,7 +301,7 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
     * Box mount: 62GB-12E14-12-PN(416)
     * Cable mount: 62GB-56T14-12-SN(416)
 
-#### Misc
+#### MiscPH-127-10-20-S
 * [x] sealant
   * Dow Corning 732 RTV
 
