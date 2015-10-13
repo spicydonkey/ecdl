@@ -251,10 +251,10 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
   * engraving ANU logo etc.
 
 ### TODO
-* [ ] Peltier
-  * [ ] list
-  * [ ] select
-  * [ ] update ECDL block recess for TEC
+* [x] Peltier
+  * [x] list
+  * [x] select: APH-127-10-20-S: Peltier cooler module, 2.3A, 15.4V, 20W, 30x30x4
+  * [x] update ECDL block recess for TEC
   
 
 ## 02.10.15
@@ -278,24 +278,28 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
   * fiber collimating lens 
 
 #### Electronics
-* [ ] thermistor
+* [x] thermistor
   * Epcos 10 kOhm 60mW Measurement NTC Thermistor, 15s, 2.41 Dia x 6.5mm
     * RS 706-2759
 * [ ] diode protection circuitry
-* [ ] Peltier
+* [x] Peltier
   * Uniform heat flux
   * ~12W operating cooling from GM 
   * dimension: <70x70 
   * APH-127-10-20-S: 20W, 2.3A, 15.4V, 30x30x4
     * Element14: 2466917
-* [ ] DVI panel mount connector
+  * Would like 4 for a wider heat flux area
+* [x] DVI panel mount connector
   * RS electronics
     * 822-3217 - right angle, 29 way
     * 822-3210 - straight, 24 way
-* [ ] Connector for block
+* [x] Connector for block
   * >11 pin 
   * Piezo ~100V
   * Sensitive currents
+  * Mil-spec circular connector: 12 way, high V, high I connectors
+    * Box mount: 62GB-12E14-12-PN(416)
+    * Cable mount: 62GB-56T14-12-SN(416)
 
 #### Misc
 * [x] sealant
