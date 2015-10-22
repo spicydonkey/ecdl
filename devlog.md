@@ -305,5 +305,23 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 * [x] sealant
   * Dow Corning 732 RTV
 
-## 20.10.15
+## 20-22.10.15
 ### Fiber storage reel
+* Mounted on an angled post to reduce space needed in housing 
+* Radius equal to Thorlabs 900um fiber storage reel for long term storage 
+* 3D printed part to reduce cost and add in complexity to details
+* simple aluminium post for rapid prototyping 
+
+## 21.10.15
+### Electrical connector
+* large, mil spec circular connectors for electrical connection from main block
+* **DVI-I** connector required (for compatibility with MOGLabs products) from the housing 
+* **Laser diode protection circuitry** to be designed and mounted in the housing, DVI-I connector PCB mounted
+
+* CBs in the base of the casing to fix onto metric optical table (125x125 square)
+
+## 22.10.15
+### Housing fiber output connector 
+* CAD the concept with Thorlabs FC/APC PM mating sleeve (narrow key)
+* Fiber connectors have significant length and adjustments in position of mating sleeve relative to the FSR was necessary
+* FSR can be repositioned easily and should help during fiber assembly and fiber wiring
