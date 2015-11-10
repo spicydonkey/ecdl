@@ -253,7 +253,8 @@ Calculated maximum beam intensity (~4 safety factor) is **11 W/cm^2** which is s
 ### TODO
 * [x] Peltier
   * [x] list
-  * [x] select: APH-127-10-20-S: Peltier cooler module, 2.3A, 15.4V, 20W, 30x30x4
+  * [x] select: ~~APH-127-10-20-S: Peltier cooler module, 2.3A, 15.4V, 20W, 30x30x4~~
+		APH-127-10-25-S: 17W, 1.9A, 15.4V, 30x30x4.5
   * [x] update ECDL block recess for TEC
   
 
